@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## I am Tolibov Temurbek
+## I study at International Islamic academy of Uzbekistan
+## Information Security Management 4/4
 <!--
 **dvlprjs/dvlprjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
